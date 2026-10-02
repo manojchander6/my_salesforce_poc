@@ -1,0 +1,10 @@
+{
+  "orgName": "my_salesforce_poc",
+  "edition": "Developer",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
